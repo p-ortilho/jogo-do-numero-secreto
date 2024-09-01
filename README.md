@@ -1,6 +1,6 @@
 # :dependabot: jogo-do-numero-secreto
 
-Desenvolvimento de Jogo durante o Curso de Lógica de Programação com JavaScript
+Desenvolvimento de Jogo durante o Curso de Lógica de Programação com JavaScript.
 
 Oferecido pela plataforma Alura em parceria com o programa Oracle One, este curso proporcionou a criação de um jogo.
 
